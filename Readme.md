@@ -1,3 +1,5 @@
+# Docker Bootcamp Lab
+
 1. Install Docker Community Edition
 2. Clone the alpine linux image locally by running
     docker pull alpine
